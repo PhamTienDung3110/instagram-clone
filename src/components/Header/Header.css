@@ -1,0 +1,24 @@
+.header{
+    height:60px;
+    border-bottom: 1px solid gray;
+    padding: 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 50%;
+}
+.header__logo{
+    max-width: 30%;
+
+}
+.header__search{
+    max-width:20%;
+}
+.profile__img{
+    border-radius: 50%;
+}
